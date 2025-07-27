@@ -7,7 +7,3 @@ import math
 print("Hello, World!")
 print(f"Hello, World! {10}")
 print(f"Hello, World! {10}")
-print(f"Hello, World! {10}")
-print(f"Hello, World! {10}")
-print(f"Hello, World! {10}")
-print(f"Hello, World! {10}")
